@@ -1,0 +1,16 @@
+.login-failed {
+  margin: 15px;
+}
+
+section {
+  height: 100vh;
+  width: auto;
+  overflow: hidden;
+  background-image: url(../images/backg.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
