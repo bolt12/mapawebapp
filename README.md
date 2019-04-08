@@ -308,11 +308,23 @@ In order to show the task lists on the page, every time the page loads the list 
 <a id="markdown-1612-files" name="1612-files"></a>
 #### 1.6.1.2. Files
 
-In this tab the users can access their folders and files. They can also upload one or more files to the server.
+In this tab the users can access their folders and files. Although the frontend does not permit it will be possible to upload one or more files to the server.
 
-Once again there's a function responsible for uploading the files to the server and every time the tab is clicked all the folders/files are fetched asynchronously to ensure the page runs smooth.
+Once again there's a function responsible for uploading the files to the server and every time the tab is clicked all the folders/files are fetched asynchronously to ensure the page runs smoothly.
+
+<p align="center">
+<img src="./Assets/filesPage.png">
+</p>
+
+<p align="center">
+<img src="./Assets/filesShowPage.png">
+</p>
 
 <a id="markdown-1613-device-status" name="1613-device-status"></a>
 #### 1.6.1.3. Device Status
 
 Here all the devices connected and present in the server's database will be shown informing the user if they're online.
+
+<p align="center">
+<img src="./Assets/devicesPage.png">
+</p>
