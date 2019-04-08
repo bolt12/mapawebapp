@@ -1,5 +1,5 @@
 <a id="markdown-1-raspberry-pi-home-web-app" name="1-raspberry-pi-home-web-app"></a>
-# 1. Raspberry Pi Home Web App
+# 1. Raspberry Pi Home Web App (WIP)
 
 This Web App is a personal project meant to be the front-end implementation to a home website.
 This document will go through every step of the development of the web app and will provide all the information needed to update and/or improve the web app as new features will be introduced by the back-end.
